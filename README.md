@@ -5,7 +5,7 @@ Early fire/smoke detection plays a very important role in protecting many lives 
 
 ### Demo Output - ![alt text](https://github.com/Siddhant-Pragyan-Sinha/Fire-and-Smoke-Detection-Model/blob/main/utils/demo.gif)
 
-### Download the Dataset - ![download](https://github.com/DeepQuestAI/Fire-Smoke-Dataset/releases/download/v1/FIRE-SMOKE-DATASET.zip)
+### Download the Dataset - [download](https://github.com/DeepQuestAI/Fire-Smoke-Dataset/releases/download/v1/FIRE-SMOKE-DATASET.zip)
 
 ### Dataset Folder - 
     Train
