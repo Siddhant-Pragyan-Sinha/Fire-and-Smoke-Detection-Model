@@ -29,9 +29,9 @@ For more info about training and graphs - open Training.ipynb
 ![Model Accuracy](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/accuracy.png)
 
 ### Sample Results
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/fire.png)
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/smoke.png)
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/neutral.png)
+![alt text](https://github.com/Siddhant-Pragyan-Sinha/Fire-and-Smoke-Detection-Model/blob/main/utils/fire.png)
+![alt text](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/smoke.png)
+![alt text](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/neutral.png)
     
 ### Steps - 
 1. Clone/Download the repo
