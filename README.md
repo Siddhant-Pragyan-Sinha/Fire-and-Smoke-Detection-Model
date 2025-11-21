@@ -3,10 +3,9 @@ Detecting Fire, Smoke using Computer Vision, Open CV and PyTorch
 
 Early fire/smoke detection plays a very important role in protecting many lives also property loss can be reduced and downtime for the operation minimized through early detection. Therefore in this project I have developed an Computer Vision & Deep Learning pipeline for fire and smoke detection.
 
-### Demo Output - 
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/master/utils/demo.gif)
+### Demo Output - ![alt text](https://github.com/Siddhant-Pragyan-Sinha/Fire-and-Smoke-Detection-Model/blob/main/utils/demo.gif)
 
-### Download the Dataset - [download](https://github.com/DeepQuestAI/Fire-Smoke-Dataset/releases/download/v1/FIRE-SMOKE-DATASET.zip)
+### Download the Dataset - ![download](https://github.com/DeepQuestAI/Fire-Smoke-Dataset/releases/download/v1/FIRE-SMOKE-DATASET.zip)
 
 ### Dataset Folder - 
     Train
@@ -25,14 +24,14 @@ For traing the model I have used transfer learning technique. Architecture used 
 I have achieved validation accuracy of 93% using ResNet.
 For more info about training and graphs - open Training.ipynb
 
-![Training Loss](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/master/utils/trainloss.png)
+![Training Loss](https://github.com/Siddhant-Pragyan-Sinha/Fire-and-Smoke-Detection-Model/blob/main/utils/trainloss.png)
 
-![Model Accuracy](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/master/utils/accuracy.png)
+![Model Accuracy](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/accuracy.png)
 
 ### Sample Results
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/master/utils/fire.png)
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/master/utils/smoke.png)
-![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/master/utils/neutral.png)
+![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/fire.png)
+![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/smoke.png)
+![](https://github.com/Siddhant-Pragyan-Sinha/Fire-Smoke-Detection/blob/main/utils/neutral.png)
     
 ### Steps - 
 1. Clone/Download the repo
