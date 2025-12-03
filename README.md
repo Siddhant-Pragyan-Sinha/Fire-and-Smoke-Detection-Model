@@ -53,6 +53,11 @@ Numpy
 ### Upcoming Work - 
 RestAPI (rest api using flask)
 
+### Team  
+![Akhil Kirty](https://www.linkedin.com/in/akhil-kirty/) |
+-|
+![Ayush Saraogi](https://www.linkedin.com/in/ayushsaraogi/) |
+
 ### References
 1. PyImageSearch - https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/
 2. DeepQuestAI/Fire-Smoke-Dataset - https://github.com/DeepQuestAI/Fire-Smoke-Dataset
